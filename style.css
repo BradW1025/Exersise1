@@ -1,0 +1,71 @@
+.flexbox-containera{
+    display: flex;
+    background-color: gray;
+    justify-content: left;
+}
+.flexbox-containerb{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+}
+.flexbox-containerc{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    max-width: 300px;
+}
+.flexbox-item {
+    width: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+.flexbox-containerd{
+    display: flex;
+    background-color: gray;
+    justify-content: right;
+}
+
+.flexbox-containere{
+    display: flex;
+    background-color: gray;
+    justify-content: space-between;
+}
+
+.flexbox-containerf{
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+}
+
+.flexbox-containerg{
+    display: flex;
+    background-color: gray;
+    justify-content: stretch;
+}
+
+.cont-1 {
+    min-height: 100px;
+    
+}
+
+.cont-2 {
+    min-height: 100px;
+}
+
+.cont-3 {
+    min-height: 100px;
+}
+
+.cont-4 {
+    min-height: 100px;
+}
+
+.cont-5 {
+    min-height: 100px;
+}
+
+.p-style {
+    justify-content: center;
+}
